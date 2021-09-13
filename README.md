@@ -2,7 +2,7 @@
 
 Spring Boot Project composed of Kotlin.
 
-### Usings
+### Using
 - java 11
 - jvm `v1.5.21`
 - kapt `v1.4.10`
